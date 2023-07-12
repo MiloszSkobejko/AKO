@@ -52,7 +52,8 @@ Each example focuses on a specific topic and provides a practical implementation
 ## Repository Structure
 
 The repository is structured as follows:
-`
+
+```
 root/
 ├── lab1/
 │ ├── example1/
@@ -63,7 +64,7 @@ root/
 │ ├── example2/
 │ └── ...
 ...
-`
+```
 The examples are organized into separate directories for each laboratory assignment. Within each lab directory, you will find individual example directories, each containing the source code and any necessary files for that specific example.
 
 ## Contributing
